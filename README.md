@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Welcome** ✨✨ 
 
 # Morgan
@@ -12,7 +12,7 @@ I am recently training to be a full stach developer
 
 ![This image is my response :blush:](https://myoctocat.com/assets/images/base-octocat.svg)
 
-Here are some ideas to get you started:
+What am I currently working on?
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -22,4 +22,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
