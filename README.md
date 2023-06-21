@@ -1,7 +1,16 @@
 ### Hi there 👋
 
 <!--
-**Mor-gan/Mor-gan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Welcome** ✨✨ 
+
+# Morgan
+## Welcome
+Hi, I am Abimbola, a frontend developer, I have worked meaning project using Recat.js and Next.js. 
+
+## Currently!
+I am recently training to be a full stach developer
+
+![This image is my response :blush:](https://myoctocat.com/assets/images/base-octocat.svg)
 
 Here are some ideas to get you started:
 
