@@ -4,9 +4,9 @@
 
 ## **Who is Mor-gan**? 
 
-Hi, My birth name Abimbola, I am a frontend developer, with experience using React.js and Next,js to build projects. I also have experience as a technical tutor @[Afrilearn kidscode](https://kidscode.myafrilearn.com/). I have worked meaning project which include Live and solo projects. 
+Hi, My birth name Abimbola, I am a frontend developer, with experience using React.js and Next,js to build projects. I also have experience as a technical tutor @[Afrilearn kidscode](https://kidscode.myafrilearn.com/). I have worked meaningful project which include live and solo projects. 
 
-I strongly believe in self developement, this is why I always like to acquire knowlegde always.
+I strongly believe in self developement, this is why I like to acquire knowlegde always.
 
 ## **What am I currently building**? 
 
