@@ -24,7 +24,6 @@ I strongly believe in self developement, this is why I like to acquire knowlegde
 - 😄 Pronouns: .She/Her
 - ⚡ Fun fact: I play chess!
 
-
 ![This image is my response :blush:](https://i.gifer.com/YARz.gif)
 
 
