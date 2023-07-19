@@ -18,10 +18,10 @@ I strongly believe in self developement, this is why I like to acquire knowlegde
 - 👨🏾‍💻 I speak Linux cmd, CSS, HTML, R-language, Javascript, React.js, Next.js, and Bootstrap.
 - 🌱 I’m currently learning Java development.
 - 👯 I’m looking to collaborate on meaningful projects that are open source
-- 🤔 I’m looking for help with questions on how to transition int tech
+- 🤔 I’m looking to help with questions on how to transition into tech
 - 💬 Ask about me @[LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BJN50HmrqTomFF3inG9SGVw%3D%3D)
 - 📫 How to reach me: ...
-- 😄 Pronouns: .She/Her
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I play chess!
 
 ![This image is my response :blush:](https://i.gifer.com/YARz.gif](https://i.gifer.com/5SM.gif)https://i.gifer.com/5SM.gif)
