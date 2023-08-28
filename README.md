@@ -15,7 +15,7 @@ I strongly believe in self developement, this is why I like to acquire knowlegde
 - Currently learning Java development to be a full stack developer.
 
 ## **Briefs**
-- 👨🏾‍💻 I speak Linux cmd, CSS, HTML, R-language, Javascript, React.js, Next.js, and Bootstrap.
+- 👨🏾‍💻 I speak Linux cmd, CSS, HTML, R-language, Javascript, React.js, Next.js, CSS Bootstrap, Python and Java.
 - 🌱 I’m currently learning Java development.
 - 👯 I’m looking to collaborate on meaningful projects that are open source
 - 🤔 I’m looking to help with questions on how to transition into tech
