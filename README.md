@@ -12,7 +12,7 @@ I strongly believe in self developement, this is why I like to acquire knowlegde
 
 - I am currently a masters student  of **Bioinformatics** at the University of Bristol. 
 
-- Currently learning Java development to be a full stack developer.
+- Currently learning Java development with CBF.
 
 ## **Briefs**
 - 👨🏾‍💻 I speak Linux cmd, CSS, HTML, R-language, Javascript, React.js, Next.js, CSS Bootstrap, Python and Java.
