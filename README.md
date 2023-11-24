@@ -24,7 +24,7 @@ I strongly believe in self developement, this is why I like to acquire knowlegde
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I play chess!
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://camo.githubusercontent.com/d0c5300d7941f9fa93fdbb35009b4d980e5e9acd0fec481d30b8c67b6d6d90bb/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d527562792d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d72756279266c6f676f436f6c6f723d666666666666)https://camo.githubusercontent.com/d0c5300d7941f9fa93fdbb35009b4d980e5e9acd0fec481d30b8c67b6d6d90bb/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d527562792d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d72756279266c6f676f436f6c6f723d666666666666)
 
 
 
