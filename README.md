@@ -9,12 +9,10 @@ Hi, My birth name Abimbola, I am a frontend developer, with experience using Rea
 I strongly believe in self developement, this is why I like to acquire knowlegde always.
 
 ## **What am I currently building**? 
-
-- Working on a Java project
-
+- 
 ## **Briefs**
 - 👨🏾‍💻 I speak Linux cmd, CSS, HTML, R-language, Javascript, React.js, Next.js, CSS Bootstrap, Python and Java.
-- 🌱 I’m currently learning Java development.
+- 🌱 I’m currently learning AWS.
 - 👯 I’m looking to collaborate on meaningful projects that are open source
 - 🤔 I’m looking to help with questions on how to transition into tech
 - 💬 Ask about me @[LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BJN50HmrqTomFF3inG9SGVw%3D%3D)
