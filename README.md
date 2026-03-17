@@ -7,7 +7,7 @@
 I am a programmer with experience in software development, technical tutoring, and tech support. I’ve built projects both independently and collaboratively. Currently, I’m transitioning into DevOps engineering, actively developing my skills in AWS and cloud technologies while leveraging my diverse background to build and support scalable systems.
 
 ## **What am I currently building**? 
-Check my recent repo
+Check my recent repositories
 
 ## **Briefs**
 - 👨🏾‍💻 I speak Linux cmd, CSS, HTML, R-language, Javascript, React.js, Next.js, CSS Bootstrap, Python and Java.
